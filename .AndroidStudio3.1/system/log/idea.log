@@ -1,0 +1,103 @@
+2018-07-07 00:49:48,253 [e-1024-b02]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-07-07 00:49:48,269 [e-1024-b02]   INFO -        #com.intellij.idea.Main - IDE: Android Studio (build #AI-173.4819257, 04 Jun 2018 23:40) 
+2018-07-07 00:49:48,269 [e-1024-b02]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2018-07-07 00:49:48,269 [e-1024-b02]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_152-release-1024-b02 (JetBrains s.r.o) 
+2018-07-07 00:49:48,269 [e-1024-b02]   INFO -        #com.intellij.idea.Main - JVM: 25.152-b02 (OpenJDK 64-Bit Server VM) 
+2018-07-07 00:49:48,269 [e-1024-b02]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms256m -Xmx1280m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -Djna.nosys=true -Djna.boot.library.path= -da -Djb.vmOptionsFile=C:\Program Files\Android\Android Studio\bin\studio64.exe.vmoptions -Xbootclasspath/a:C:\Program Files\Android\Android Studio\lib\boot.jar -Didea.platform.prefix=AndroidStudio -Didea.jre.check=true -Dide.native.launcher=true -Didea.paths.selector=AndroidStudio3.1 -XX:ErrorFile=C:\Users\ CA;0=\java_error_in_studio_%p.log -XX:HeapDumpPath=C:\Users\ CA;0=\java_error_in_studio.hprof 
+2018-07-07 00:49:48,269 [e-1024-b02]   INFO -        #com.intellij.idea.Main - ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@511767b4[Running, parallelism = 7, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0] 
+2018-07-07 00:49:48,269 [e-1024-b02]   INFO -        #com.intellij.idea.Main - ext: C:\Program Files\Android\Android Studio\jre\jre\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2018-07-07 00:49:48,269 [e-1024-b02]   INFO -        #com.intellij.idea.Main - JNU charset: Cp1251 
+2018-07-07 00:49:48,456 [e-1024-b02]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 187 ms 
+2018-07-07 00:49:48,456 [e-1024-b02]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2018-07-07 00:49:49,702 [entQueue-0]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor duplicates-groovy.xml 
+2018-07-07 00:49:50,139 [entQueue-0]   INFO - llij.ide.plugins.PluginManager - 38 plugins initialized in 703 ms 
+2018-07-07 00:49:50,147 [entQueue-0]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Android APK Support (1.0), Android Games (1.0), Android NDK Support (1.0), Android Support (10.3.1.3), App Links Assistant (0.1), CVS Integration (11), Copyright (8.1), Coverage (173.4301.25), EditorConfig (173.4301.25), Firebase App Indexing (0.1), Firebase Services (0.1), Firebase Testing (1.0), Git Integration (8.1), GitHub (173.4301.25), Google Cloud Tools Core (0.2.8), Google Cloud Tools For Android Studio (0.2.8), Google Developers Samples (0.3.1), Google Login (1.0), Google Services (0.1), Gradle (173.4301.25), Groovy (9.0), I18n for Java (173.4301.25), IDEA CORE (173.4301.25), IntelliLang (8.0), JUnit (1.0), Java Bytecode Decompiler (173.4301.25), Java Stream Debugger (173.4301.25), Kotlin (1.2.30-release-Studio3.1-1), Mercurial Integration (10.0), Properties Support (173.4301.25), Settings Repository (173.4301.25), Smali Support (1.0), Subversion Integration (1.1), Task Management (1.0), Terminal (0.1), Test Recorder (1.0), TestNG-J (8.0), YAML (173.4301.25) 
+2018-07-07 00:49:51,861 [entQueue-0]   INFO - ellij.vfs.persistent.FSRecords - Marking VFS as corrupted: 'C:\Users\Руслан\.AndroidStudio3.1\system\caches\names.dat' does not exist 
+2018-07-07 00:49:51,861 [entQueue-0]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=1217 
+2018-07-07 00:49:51,892 [entQueue-0]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: C:\Program Files\Android\Android Studio\bin\fsnotifier64.exe 
+2018-07-07 00:49:51,923 [entQueue-0]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2018-07-07 00:49:52,423 [entQueue-0]   INFO - .history.utils.LocalHistoryLog - local history version mismatch (was: 0, expected: 6), rebuilding... 
+2018-07-07 00:49:52,423 [entQueue-0]   INFO - .history.utils.LocalHistoryLog - FS has been rebuild, rebuilding local history... 
+2018-07-07 00:49:52,500 [d thread 1]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.OptionsTopHitProvider$Activity@470e002a 
+2018-07-07 00:49:52,582 [entQueue-0]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2018-07-07 00:49:52,779 [d thread 2]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2018-07-07 00:49:52,793 [entQueue-0]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2018-07-07 00:49:53,001 [e-1024-b02]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:171 
+2018-07-07 00:49:53,007 [e-1024-b02]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:6 
+2018-07-07 00:49:53,065 [e-1024-b02]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:56 
+2018-07-07 00:49:53,066 [e-1024-b02]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:0 
+2018-07-07 00:49:53,404 [e-1024-b02]   INFO - ellij.project.impl.ProjectImpl - 20 project components initialized in 190 ms 
+2018-07-07 00:49:53,499 [d thread 2]   INFO - ij.psi.stubs.StubUpdatingIndex - Following new file types will be indexed:GDBCommands,kotlin_builtins,HTML,Properties,XML,LLDBCommands,Groovy,KJSM,JAVA,CLASS,Kotlin 
+2018-07-07 00:49:54,157 [d thread 2]   INFO - pl$FileIndexDataInitialization - Initialization done:1152 
+2018-07-07 00:49:54,580 [e-1024-b02]   INFO - plication.impl.ApplicationImpl - 87 application components initialized in 5144ms 
+2018-07-07 00:49:54,586 [e-1024-b02]   INFO - .intellij.idea.IdeaApplication - App initialization took 14365 ms 
+2018-07-07 00:49:54,685 [d thread 2]   INFO - exImpl$StubIndexInitialization - Initialization done:538 
+2018-07-07 00:49:55,133 [d thread 3]   INFO - dea.updater.SdkComponentSource - File C:\Users\Руслан\.android\repositories.cfg could not be loaded. 
+2018-07-07 00:49:55,133 [d thread 3]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2018-07-07 00:49:55,133 [d thread 2]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2018-07-07 00:49:55,133 [d thread 1]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@3954ea3e 
+2018-07-07 00:49:56,132 [d thread 3]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/addons_list-3.xml 
+2018-07-07 00:49:56,148 [d thread 2]   INFO - s.RepoProgressIndicatorAdapter - File C:\Users\Руслан\.android\repositories.cfg could not be loaded. 
+2018-07-07 00:49:56,148 [d thread 2]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addons_list-3.xml 
+2018-07-07 00:49:56,414 [d thread 3]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2018-07-07 00:49:56,414 [d thread 2]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2018-07-07 00:49:56,679 [d thread 1]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@5c8a6ccf 
+2018-07-07 00:49:56,992 [d thread 3]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2018-07-07 00:49:57,007 [d thread 2]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2018-07-07 00:49:57,163 [d thread 1]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@40705391 
+2018-07-07 00:49:57,382 [d thread 2]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2018-07-07 00:49:57,382 [d thread 3]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2018-07-07 00:49:57,742 [d thread 2]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2018-07-07 00:49:57,742 [d thread 3]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2018-07-07 00:49:58,117 [d thread 2]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2018-07-07 00:49:58,133 [d thread 3]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2018-07-07 00:49:58,524 [d thread 3]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2018-07-07 00:49:58,524 [d thread 2]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2018-07-07 00:49:58,830 [d thread 2]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2018-07-07 00:49:58,861 [d thread 3]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2018-07-07 00:49:59,409 [d thread 2]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2018-07-07 00:49:59,409 [d thread 3]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2018-07-07 00:49:59,768 [d thread 3]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2018-07-07 00:49:59,783 [d thread 2]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2018-07-07 00:50:00,111 [d thread 3]   INFO - dea.updater.SdkComponentSource - Downloading file:/C:/Program%20Files/Android/Android%20Studio/plugins/sdk-updates/offline-repo/offline-repo.xml 
+2018-07-07 00:50:00,127 [d thread 2]   INFO - s.RepoProgressIndicatorAdapter - Downloading file:/C:/Program%20Files/Android/Android%20Studio/plugins/sdk-updates/offline-repo/offline-repo.xml 
+2018-07-07 00:50:00,252 [e-1024-b02]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2018-07-07 00:50:00,869 [e-1024-b02]   INFO - j.ide.ui.OptionsTopHitProvider - 245 ms spent to cache options in application 
+2018-07-07 00:50:00,869 [e-1024-b02]   INFO - rtup.GradleSpecificInitializer - Found Studio home directory at: 'C:\Program Files\Android\Android Studio' 
+2018-07-07 00:50:00,870 [e-1024-b02]   INFO - rtup.GradleSpecificInitializer - Looking for Android SDK at 'C:/Program Files/Android/Android Studio/sdk' 
+2018-07-07 00:50:00,871 [e-1024-b02]   INFO - rtup.GradleSpecificInitializer - Looking for Android SDK at 'C:/Program Files/Android/sdk' 
+2018-07-07 00:50:00,871 [e-1024-b02]   INFO - rtup.GradleSpecificInitializer - Unable to locate SDK within the Android studio installation. 
+2018-07-07 00:50:00,871 [e-1024-b02]   INFO - rtup.GradleSpecificInitializer - Checking if ANDROID_HOME is set: 'ANDROID_HOME' is 'null' 
+2018-07-07 00:50:00,871 [e-1024-b02]   INFO - rtup.GradleSpecificInitializer - Unable to locate last SDK used by Android tools 
+2018-07-07 00:50:00,871 [e-1024-b02]   INFO - .startup.AndroidSdkInitializer - Found Studio home directory at: 'C:\Program Files\Android\Android Studio' 
+2018-07-07 00:50:00,871 [e-1024-b02]   INFO - .startup.AndroidSdkInitializer - Looking for Android SDK at 'C:/Program Files/Android/Android Studio/sdk' 
+2018-07-07 00:50:00,871 [e-1024-b02]   INFO - .startup.AndroidSdkInitializer - Looking for Android SDK at 'C:/Program Files/Android/sdk' 
+2018-07-07 00:50:00,871 [e-1024-b02]   INFO - .startup.AndroidSdkInitializer - Unable to locate SDK within the Android studio installation. 
+2018-07-07 00:50:00,871 [e-1024-b02]   INFO - .startup.AndroidSdkInitializer - Checking if ANDROID_HOME is set: 'ANDROID_HOME' is 'null' 
+2018-07-07 00:50:00,871 [e-1024-b02]   INFO - .startup.AndroidSdkInitializer - Unable to locate last SDK used by Android tools 
+2018-07-07 00:50:16,391 [e-1024-b02]   WARN - til.ui.update.LazyUiDisposable - use application as a parent disposable 
+2018-07-07 00:50:24,257 [e-1024-b02]   INFO - rd.FirstRunWizardFrameProvider - Overriding welcome frame to be resizable 
+2018-07-07 00:51:13,596 [e-1024-b02]   WARN - ConfigurableExtensionPointUtil - use other group instead of unexpected one: reference.settingsdialog.project.gradle 
+2018-07-07 00:51:14,084 [d thread 4]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2018-07-07 00:51:14,615 [d thread 4]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2018-07-07 00:51:14,990 [d thread 4]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2018-07-07 00:51:15,365 [d thread 4]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2018-07-07 00:51:15,786 [d thread 4]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2018-07-07 00:51:16,138 [d thread 4]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2018-07-07 00:51:16,540 [d thread 4]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2018-07-07 00:51:16,868 [d thread 4]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2018-07-07 00:51:17,294 [d thread 4]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2018-07-07 00:51:17,653 [d thread 4]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2018-07-07 00:51:18,028 [d thread 4]   INFO - s.RepoProgressIndicatorAdapter - Downloading file:/C:/Program%20Files/Android/Android%20Studio/plugins/sdk-updates/offline-repo/offline-repo.xml 
+2018-07-07 00:52:51,787 [e-1024-b02]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2018-07-07 00:52:51,787 [e-1024-b02]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2018-07-07 00:52:51,787 [e-1024-b02]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2018-07-07 00:52:51,818 [e-1024-b02]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2018-07-07 00:52:51,818 [e-1024-b02]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2018-07-07 00:52:51,818 [e-1024-b02]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 1 auto-detected files
+Elapsed time on auto-detect: 0 ms 
+2018-07-07 00:52:51,834 [fier64.exe]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2018-07-07 00:52:51,834 [e-1024-b02]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2018-07-07 00:52:51,834 [e-1024-b02]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2018-07-07 00:52:51,834 [ - logging]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2018-07-07 00:52:51,834 [wn tracker]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
